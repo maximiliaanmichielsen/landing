@@ -1,0 +1,36 @@
+.banner {
+    background-image: url(https://www.tbstat.com/wp/uploads/2021/06/jay-z.png);
+    background-size: cover;
+    background-position: center;
+    padding: 250px 0;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.banner h1 {
+  color: rgb(255, 250, 250);
+}
+
+.banner p {
+      color: white;
+    opacity: .7;
+    font-size: 20px;
+}
+
+.btn-primary {
+    display: inline-block;
+    background-color: #071422;
+    padding: 16px 36px;
+    border-radius: 100px;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #ffffff;
+    padding: 16px 36px;
+    border-radius: 100px;
+    color: rgb(0, 0, 0)
+}
